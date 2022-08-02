@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:top="32dp" android:left="16dp" android:right="16dp">
+        <bitmap android:src="@drawable/character_5_1" />
+    </item>
+    <item android:drawable="@drawable/button_color_clear_pressed" />
+</layer-list>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">わんわんペチペチHit!</string>
+
+    <!-- AdMob App ID: ca-app-pub-6484092924300311~2050619780 -->
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ad_app_id">ca-app-pub-6484092924300311~2050619780</string>
+
+    <!-- Ad Unit ID banner: ca-app-pub-6484092924300311/3691004516 -->
+    <!-- Sample Ad Unit ID banner: ca-app-pub-3940256099942544/6300978111 -->
+    <string name="ad_unit_id_banner">ca-app-pub-6484092924300311/3691004516</string>
+
+    <!-- Ad Unit ID interstitial: ca-app-pub-6484092924300311/9681697795 -->
+    <!-- Sample Ad Unit ID interstitial: ca-app-pub-3940256099942544/1033173712 -->
+    <string name="ad_unit_id_interstitial">ca-app-pub-6484092924300311/9681697795</string>
+
+    <string name="title_stage_close">？？？</string>
+    <string name="title_stage_1">STAGE 1</string>
+    <string name="title_stage_2">STAGE 2</string>
+    <string name="title_stage_3">STAGE 3</string>
+    <string name="title_stage_4">STAGE 4</string>
+    <string name="title_stage_5">STAGE 5</string>
+    <string name="title_stage_6">STAGE 6</string>
+
+    <string name="stage_1">コーギー</string>
+    <string name="stage_2">柴犬</string>
+    <string name="stage_3">ゴールデンレトリーバー</string>
+    <string name="stage_4">ボクサー</string>
+    <string name="stage_5">オルトロス</string>
+    <string name="stage_6">ケルベロス</string>
+
+    <string name="stage_view_ad">※ステージ開始前に広告が表示されます</string>
+
+    <string name="credit">クレジット</string>
+    <string name="credit_in_text">
+        企画・開発\nP.EN.S co., Ltd.
+    </string>
+
+    <string name="score_list">スコア履歴</string>
+    <string name="score">スコア</string>
+    <string name="score_1">1st</string>
+    <string name="score_2">2nd</string>
+    <string name="score_3">3rd</string>
+
+    <string name="best_score_title">ベストスコア：</string>
+    <string name="now_score_title">今回のスコア：</string>
+    <string name="new_record">新記録</string>
+
+    <string name="tutorial">チュートリアル</string>
+    <string name="tutorial_1">わんわんをペチペチしよう\n\nいっぱいペチペチするとこっちに興味を持ってくれるよ</string>
+    <string name="tutorial_2">上のゲージが溜まったら成功\n\n可愛い顔を見せてくれるよ</string>
+    <string name="tutorial_3">下のゲージが溜まったら失敗\n\nすねちゃうから気をつけて</string>
+    <string name="tutorial_4">いろんなわんわんを\nいっぱいペチペチしちゃおう</string>
+
+    <string name="copyright">© 2020 P.EN.S co., Ltd.</string>
+</resources>

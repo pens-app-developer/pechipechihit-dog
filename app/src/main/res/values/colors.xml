@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80e5ff</color>
+    <color name="colorPrimaryDark">#2ad4ff</color>
+    <color name="colorAccent">#fff896</color>
+
+    <color name="colorBackground">#666666</color>
+
+    <color name="colorCopyright">#cccccc</color>
+
+    <color name="colorCreditText">#ffffff</color>
+
+
+    <color name="colorTutorialText">#ffffff</color>
+
+    <color name="colorLayoutStageSelectOver">#000000</color>
+
+    <color name="colorButtonClearText">#000000</color>
+    <color name="colorButtonClearBorder">#000000</color>
+    <color name="colorButtonClearPressed">#aaffffff</color>
+    <color name="colorButtonClearDefault">#66ffffff</color>
+
+    <color name="colorButtonClearDisabledText">#333333</color>
+    <color name="colorButtonClearDisabledBorder">#333333</color>
+    <color name="colorButtonClearDisabled">#66cccccc</color>
+
+    <color name="colorBrightClear">#33000000</color>
+    <color name="colorDarkClear">#cc000000</color>
+
+    <color name="colorLayoutTimeBorder">#ffffff</color>
+    <color name="colorLayoutTimeBackground">#ff8080</color>
+    <color name="colorLayoutTapBorder">#ffffff</color>
+    <color name="colorLayoutTapBackground">#80ffb3</color>
+    <color name="colorProgressBorder">#ffffff</color>
+    <color name="colorProgressBackground">#cccccc</color>
+    <color name="colorProgressTime">#ff2a2a</color>
+    <color name="colorProgressTap">#2aff80</color>
+
+    <color name="colorScoreTitle">#ffffff</color>
+    <color name="colorScorePoint">#fff896</color>
+    <color name="colorScorePointNewRecord">#80ffb3</color>
+
+    <color name="colorStageViewAd">#ff8080</color>
+</resources>
